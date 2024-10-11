@@ -1,2 +1,2 @@
 # A repository for homework in the Data Analyst course
- - `My first JN` - creation of my first Jupyter Notebook
+ - `My first JN.ipynb` - creation of my first Jupyter Notebook
